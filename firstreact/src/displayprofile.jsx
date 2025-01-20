@@ -17,6 +17,7 @@ function Displayprofile(){
             borderRadius :"50px",  
         }}
         />
+        <br/>
         </>
     )
 }
